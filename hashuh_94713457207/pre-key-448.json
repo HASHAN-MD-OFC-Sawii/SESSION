@@ -1,1 +1,10 @@
-{"private":{"type":"Buffer","data":"AGnr3yLdFeF721rbfYZOKYdYUwOPnjLY5YPWosMV82E="},"public":{"type":"Buffer","data":"S9hsHzrBqvRkt2eXNqAVTtd580aSlQxbX58xYz1xfA4="}}
+{
+  "private": {
+    "type": "Buffer",
+    "data": "AGnr3yLdFeF721rbfYZOKYdYUwOPnjLY5YPWosMV82E="
+  },
+  "public": {
+    "type": "Buffer",
+    "data": "S9hsHzrBqvRkt2eXNqAVTtd580aSlQxbX58xYz1xfA4="
+  }
+}
